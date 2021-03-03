@@ -1,3 +1,4 @@
 ### Hi! 👋
 
-Thanks for visiting my profile page! Feel free to take a look at some of my projects, you might like one of them! 😄
+Thanks for visiting my profile page! Feel free to take a look at some of <br>
+my projects, you might like one of them! 😄
